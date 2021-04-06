@@ -57,17 +57,16 @@ let readMeGen = async () => {
 const { newProject, description, installation, usage, license, contributing, test, questions, github, email } = inputs;
 
 const readMe = `
-
 ## Description
 
 ${description}
 
-## Table of Contents
-- [Descritption] 
+##### Table of Contents
+- [Descritption]
 - [Installation] 
-- [Usage]
+- [Usage] 
 - [Contribution] 
-- [Test]
+- [Test] 
 - [Questions] 
 - [GitHub] 
 - [Email] 
@@ -121,19 +120,3 @@ readMeGen();
 
 
 
-
-
-
-// // TODO: Include packages needed for this application
-
-// // TODO: Create an array of questions for user input
-// const questions = [];
-
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();

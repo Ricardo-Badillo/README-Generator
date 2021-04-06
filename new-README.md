@@ -1,26 +1,25 @@
 
-
 ## Description
 
-To generate a new ReadMe file for any ne project.
+To creat a new ReadMe file for any new project 
 
-## Table of Contents
-- [Descritption] 
+##### Table of Contents
+- [Descritption]
 - [Installation] 
-- [Usage]
+- [Usage] 
 - [Contribution] 
-- [Test]
+- [Test] 
 - [Questions] 
 - [GitHub] 
 - [Email] 
 
 ## Installation
 
-Install inquirer to your project
+first install your dependicies using 'npm install inquirer' then run 'node index.js'.
 
 ## Usage
 
-To quickly add any new Read Me file
+To quickly creat a new ReadMe file for my future projects
 
 ## Contribution
 
@@ -32,7 +31,7 @@ true
 
 ## Questions
 
-No.
+No
 
 ## GitHub
 
