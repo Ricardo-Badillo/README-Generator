@@ -25,7 +25,7 @@ Using the terminal - Install dependencies using "npm inquirer", then enter 'node
 
 Quickly to creat a new ReadMe file
 
-
+![gif of how to creat a ReadMe file](./Assets/creating-a-ReadMe.gif)
 
 ## Contribution
 
